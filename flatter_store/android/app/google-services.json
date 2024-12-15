@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784601312762",
+    "project_id": "a-flock-of-fleas-shop",
+    "storage_bucket": "a-flock-of-fleas-shop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784601312762:android:0126a96c044260ee0d8843",
+        "android_client_info": {
+          "package_name": "com.try.flock_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHJWBDNm-QJhcX5wpO1_F5NZ6KPEE-hXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

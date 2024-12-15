@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032867952077",
+    "project_id": "pet-store-9b17c",
+    "storage_bucket": "pet-store-9b17c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032867952077:android:bcd1dfc5a44a27fe8bc084",
+        "android_client_info": {
+          "package_name": "com.example.flock_of_fleas_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCddJX31v3dibAsi0rkbJWqNNWnlEgdQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

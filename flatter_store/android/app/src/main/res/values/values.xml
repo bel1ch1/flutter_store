@@ -1,0 +1,7 @@
+<resources>
+    <string name="default_web_client_id">784601312762</string>
+    <string name="google_api_key">AIzaSyDHJWBDNm-QJhcX5wpO1_F5NZ6KPEE-hXQ</string>
+    <string name="google_app_id">1:784601312762:android:0126a96c044260ee0d8843</string>
+    <string name="firebase_database_url">EBt8D7L1iwUM8Jjn33Ol</string>
+    <string name="google_storage_bucket">a-flock-of-fleas-shop.firebasestorage.app</string>
+</resources>
